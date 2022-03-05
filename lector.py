@@ -2,8 +2,7 @@ import functools
 import math
 '''
 making some changes on this projecgt
-que mas ombe herber.
-
+desde el Macbook
 
 '''
 def calc_avg(list):
