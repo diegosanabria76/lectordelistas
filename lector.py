@@ -1,8 +1,8 @@
 import functools
 import math
 '''
-making some changes on this projecgt 
-
+making some changes on this projecgt
+que mas ombe herber.
 
 
 '''
