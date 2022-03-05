@@ -1,6 +1,11 @@
 import functools
 import math
+'''
+making some changes on this projecgt 
 
+
+
+'''
 def calc_avg(list):
 	sum = functools.reduce(lambda a, b: a + b, list)
 	return sum / len(list)
